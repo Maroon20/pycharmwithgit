@@ -18,5 +18,6 @@ if __name__ == '__main__':
 
     print('good for you')
     print(my_function(5,10))
+    x=3
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
