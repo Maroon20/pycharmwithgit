@@ -12,6 +12,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Marwen')
-    print('how are you')
+    print('how are you today')
+    print('good for you')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
