@@ -15,7 +15,6 @@ def my_function(a,b):
 if __name__ == '__main__':
     print_hi('Marwen')
     print('how are you today')
-
     print('good for you')
     print(my_function(5,10))
     x=30
